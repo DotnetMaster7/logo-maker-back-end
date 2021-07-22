@@ -1,0 +1,383 @@
+[
+  {
+    "id": 1,
+    "inspirationName": "claireBiddens",
+    "name": {
+      "fontFamily": "Pacifico",
+      "fontType": "script",
+      "casing": "pascalcase",
+      "fontSize": 30,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 22,
+    "inspirationName": "claireBiddensEvents",
+    "name": {
+      "fontFamily": "Pacifico",
+      "fontType": "script",
+      "casing": "pascalcase",
+      "fontSize": 30,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Lato",
+      "fontType": "sansSerif",
+      "casing": "pascalcase",
+      "fontSize": 16,
+      "letterSpacing": 0,
+      "taglinePlacement": "right"
+    }
+  },
+  {
+    "id": 2,
+    "inspirationName": "happyFaces",
+    "name": {
+      "fontFamily": "Happy Monkey",
+      "fontType": "display",
+      "casing": "pascalcase",
+      "fontSize": 30,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 23,
+    "inspirationName": "happyFacesChild",
+    "name": {
+      "fontFamily": "Happy Monkey",
+      "fontType": "display",
+      "casing": "pascalcase",
+      "fontSize": 30,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Lato",
+      "fontType": "sansSerif",
+      "casing": "pascalcase",
+      "fontSize": 16,
+      "letterSpacing": 0,
+      "taglinePlacement": "left"
+    }
+  },
+  {
+    "id": 3,
+    "inspirationName": "aerial",
+    "name": {
+      "fontFamily": "Montserrat",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 28,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 12,
+    "inspirationName": "aerialConsulting",
+    "name": {
+      "fontFamily": "Montserrat",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 28,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Montserrat",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 12,
+      "letterSpacing": 0,
+      "taglinePlacement": "middle",
+      "taglineWidth": "companyNameWidth"
+    }
+  },
+  {
+    "id": 4,
+    "inspirationName": "socialWine",
+    "name": {
+      "fontFamily": "Great Vibes",
+      "fontType": "script",
+      "casing": "pascalcase",
+      "fontSize": 36,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 13,
+    "inspirationName": "socialWineLounge",
+    "name": {
+      "fontFamily": "Great Vibes",
+      "fontType": "script",
+      "casing": "pascalcase",
+      "fontSize": 36,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Lato",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 12,
+      "letterSpacing": 0,
+      "taglinePlacement": "middle"
+    },
+    "accent": {
+      "accentType": "line",
+      "accentCount": 2,
+      "accentPlacement": "linesBothSidesOfTagline",
+      "accentWidth": 15,
+      "accentHeight": 1
+    }
+  },
+  {
+    "id": 5,
+    "inspirationName": "darkRoast",
+    "name": {
+      "fontFamily": "Chunk Five",
+      "fontType": "display",
+      "casing": "uppercase",
+      "fontSize": 28,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 14,
+    "inspirationName": "darkRoastCafe",
+    "name": {
+      "fontFamily": "Chunk Five",
+      "fontType": "display",
+      "casing": "uppercase",
+      "fontSize": 28,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Lato",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 12,
+      "letterSpacing": 0,
+      "taglinePlacement": "middle"
+    },
+    "accent": {
+      "accentType": "line",
+      "accentCount": 2,
+      "accentPlacement": "linesBothSidesOfTagline",
+      "accentWidth": 67,
+      "accentHeight": 1
+    }
+  },
+  {
+    "id": 6,
+    "inspirationName": "matchBook",
+    "name": {
+      "fontFamily": "Bebas Neue",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 38,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 17,
+    "inspirationName": "matchBookStudios",
+    "name": {
+      "fontFamily": "Bebas Neue",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 38,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Lato",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 12,
+      "letterSpacing": 0,
+      "taglinePlacement": "middle"
+    },
+    "accent": {
+      "accentType": "circle",
+      "accentCount": 2,
+      "accentPlacement": "circlesBothSidesOfTagline",
+      "accentWidth": 3,
+      "accentHeight": 3
+    }
+  },
+  {
+    "id": 7,
+    "inspirationName": "centurion",
+    "name": {
+      "fontFamily": "Cinzel",
+      "fontType": "serif",
+      "casing": "pascalcase",
+      "fontSize": 30,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 16,
+    "inspirationName": "centurionFinancialGroup",
+    "name": {
+      "fontFamily": "Cinzel",
+      "fontType": "serif",
+      "casing": "pascalcase",
+      "fontSize": 28,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Cinzel",
+      "fontType": "serif",
+      "casing": "pascalcase",
+      "fontSize": 16,
+      "letterSpacing": 0,
+      "taglinePlacement": "belowAccent"
+    },
+    "accent": {
+      "accentType": "line",
+      "accentCount": 1,
+      "accentPlacement": "lineBetweenNameAndTagline",
+      "accentWidth": 173,
+      "accentHeight": 1
+    }
+  },
+  {
+    "id": 8,
+    "inspirationName": "vantagePoint",
+    "name": {
+      "fontFamily": "Caviar Dreams Bold",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 28,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 20,
+    "inspirationName": "vantagePointPhotography",
+    "name": {
+      "fontFamily": "Caviar Dreams Bold",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 28,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Lato",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 12,
+      "letterSpacing": 0,
+      "taglinePlacement": "right"
+    },
+    "accent": {
+      "accentType": "line",
+      "accentCount": 1,
+      "accentPlacement": "left",
+      "accentWidth": 97,
+      "accentHeight": 5
+    }
+  },
+  {
+    "id": 15,
+    "inspirationName": "summerBelleClothing",
+    "name": {
+      "fontFamily": "Dancing Script",
+      "fontType": "script",
+      "casing": "pascalcase",
+      "fontSize": 34,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Lato Bold",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 14,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 9,
+    "inspirationName": "honeyBee",
+    "name": {
+      "fontFamily": "Boogaloo",
+      "fontType": "display",
+      "casing": "uppercase",
+      "fontSize": 32,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 18,
+    "inspirationName": "honeyBeeSweeten",
+    "name": {
+      "fontFamily": "Boogaloo",
+      "fontType": "display",
+      "casing": "uppercase",
+      "fontSize": 28,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Boogaloo",
+      "fontType": "display",
+      "casing": "uppercase",
+      "fontSize": 16,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 10,
+    "inspirationName": "charlesPorter",
+    "name": {
+      "fontFamily": "Alex Brush",
+      "fontType": "script",
+      "casing": "pascalcase",
+      "fontSize": 34,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 21,
+    "inspirationName": "charlesPorterRealEstate",
+    "name": {
+      "fontFamily": "Alex Brush",
+      "fontType": "script",
+      "casing": "pascalcase",
+      "fontSize": 34,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Lato",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 14,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 11,
+    "inspirationName": "smokehouseBBQ",
+    "name": {
+      "fontFamily": "Oswald",
+      "fontType": "display",
+      "casing": "uppercase",
+      "fontSize": 30,
+      "letterSpacing": 0
+    }
+  },
+  {
+    "id": 19,
+    "inspirationName": "smokehouseBBQRestaurant",
+    "name": {
+      "fontFamily": "Oswald",
+      "fontType": "display",
+      "casing": "uppercase",
+      "fontSize": 30,
+      "letterSpacing": 0
+    },
+    "tagline": {
+      "fontFamily": "Lato",
+      "fontType": "sansSerif",
+      "casing": "uppercase",
+      "fontSize": 14,
+      "letterSpacing": 0
+    }
+  }
+]
